@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.624e7192.css",
+    "main.js": "/static/js/main.8597c915.js",
+    "static/media/godwill.jpg": "/static/media/godwill.4c2f88ec8945389b038e.jpg",
+    "static/media/3.jpg": "/static/media/3.e43450cf4df390af5b75.jpg",
+    "static/media/documentaries.jpeg": "/static/media/documentaries.d36be1dc15aef0d75cff.jpeg",
+    "static/media/denis.jpg": "/static/media/denis.be32cef85b070b0eca1c.jpg",
+    "static/media/peerCounselling.jpg": "/static/media/peerCounselling.42e86ce2ce2dbc12587d.jpg",
+    "static/media/2.jpg": "/static/media/2.3259e2966ea9640e8de9.jpg",
+    "static/media/1.jpg": "/static/media/1.ec374be413c65b0e0c44.jpg",
+    "static/media/thuba.jpg": "/static/media/thuba.87968a03e5c895e7af6f.jpg",
+    "static/media/4.jpg": "/static/media/4.e790085fdcda9b5b78c9.jpg",
+    "static/media/yanano.jpeg": "/static/media/yanano.4ee150fd65ded28e5a54.jpeg",
+    "static/media/dombo.jpg": "/static/media/dombo.f865115111b88d30fd65.jpg",
+    "static/media/support.jpg": "/static/media/support.6d98972182542961c0c0.jpg",
+    "static/media/michelle.jpg": "/static/media/michelle.e7ef2f38601b8f0b42dc.jpg",
+    "static/media/ngoni.jpg": "/static/media/ngoni.2af8425e48359d61d2fd.jpg",
+    "static/media/nkosilathi.jpeg": "/static/media/nkosilathi.c7ad70e97d5b6de15c79.jpeg",
+    "static/media/infortainment.jpg": "/static/media/infortainment.4e761c97257ea50e8d1c.jpg",
+    "static/media/podcast.jpg": "/static/media/podcast.60c5e74601c19f76e1c4.jpg",
+    "static/media/zviko.jpg": "/static/media/zviko.cfef281b38b6102a2727.jpg",
+    "static/media/cindy.jpg": "/static/media/cindy.7468576b6937bd742d84.jpg",
+    "static/media/outreaches.jpg": "/static/media/outreaches.6c36897cc6d3c88a5b78.jpg",
+    "static/media/tinashe.jpg": "/static/media/tinashe.1abbf8dfc7fd8958822c.jpg",
+    "static/media/research.jpg": "/static/media/research.0a6244debc280dea3760.jpg",
+    "static/media/ashley.jpg": "/static/media/ashley.c1a8e27c78472060cbf3.jpg",
+    "static/media/tillscent.jpeg": "/static/media/tillscent.fcaacc157ee2ca25dc35.jpeg",
+    "static/media/advocacy.jpg": "/static/media/advocacy.2251dd3bb9ec3a82e06c.jpg",
+    "static/media/shamma.jpg": "/static/media/shamma.e7ae8168f689f0a8b229.jpg",
+    "static/media/leslie.jpg": "/static/media/leslie.f0a8c77167751874726d.jpg",
+    "static/media/logo.png": "/static/media/logo.112e037c31fccfae9e22.png",
+    "index.html": "/index.html",
+    "main.624e7192.css.map": "/static/css/main.624e7192.css.map",
+    "main.8597c915.js.map": "/static/js/main.8597c915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624e7192.css",
+    "static/js/main.8597c915.js"
+  ]
+}
